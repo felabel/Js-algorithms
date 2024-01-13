@@ -1,6 +1,3 @@
-// An algorith to detrmine if a  number is prime
-// step 1 - what is a prime number - anumber that can only b edivided by itself and one
-// step 2 - wirte code to check if it is prime
 
 function isNumPrime(n){
     if(n < 2) return false

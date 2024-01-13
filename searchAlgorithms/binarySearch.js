@@ -1,8 +1,3 @@
-// works only on a sorted array, if given array is not sorted, sort it first
-// sort the array first
-// if array is empty return -1
-// find the middle element, if equal to t, return t
-// if not equal to t anf is less than t, binary serach to th eleft of the array and if greater than t, binary search to the right of the array
 
 function binarySearch(arr, t){
     // Check if the array is sorted, and if not, sort it

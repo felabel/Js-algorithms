@@ -1,6 +1,3 @@
-// repeatedly divide n by 2 to get a remainder of 1
-// if the remainder isn't 1 at the least n, the not a power of 2
-
 function isPowerOfTwo(n){
     if (n < 1) return false
 
