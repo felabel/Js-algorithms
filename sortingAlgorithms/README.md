@@ -29,3 +29,7 @@ Quick Sort
 - Put elements smaller than the pivot into a left away and elements greater into a right array
 - Repeat the process for the individual left and right arrays till you have an array of length 1 ahich is sorted by definition
 - Repeatedly concatenate the left array, pivot and right array till one sorted array remains
+
+Merge Sort
+- Divide the array into sub arrays, each array containing only one element (An array with one element is considered sorted)
+- Repeatedlyy merge the sub arrays to produce new sorted sub arrays until there i only one array remaining - the sorted array.
