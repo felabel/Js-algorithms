@@ -18,6 +18,7 @@ Approach
 
 Tower of Hanoi
 See th eimage in the tower_of_hanoi file
+
 The objective of the puzzle is to move the entire stack to the last rod while obeying th efollowing rules;
 - Only one disk may be moved at a time
 - Each move consists of taking the upper disk from one of the stacks and placing it ontoop of another stack or an empty stack
