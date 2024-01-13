@@ -14,3 +14,11 @@ Approach
 - At any given time, you can either clime 1 step or 2 steps
 - If you have to climb to step 'n', we can only climb from step 'n-1' or 'n-2'
 - climbingStaircase(n) = climbingStaircase(n - 1) + climbingStaircase(n-2)
+
+
+Tower of Hanoi
+See th eimage in the tower_of_hanoi file
+The objective of the puzzle is to move the entire stack to the last rod while obeying th efollowing rules;
+- Only one disk may be moved at a time
+- Each move consists of taking the upper disk from one of the stacks and placing it ontoop of another stack or an empty stack
+- No disk may be placed on top of a disk that is smaller
